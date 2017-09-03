@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlayBack", "PlayBack\PlayBack.vcproj", "{E5CE0E89-7696-4269-AC31-F20372F291E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CE0E89-7696-4269-AC31-F20372F291E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5CE0E89-7696-4269-AC31-F20372F291E5}.Debug|Win32.Build.0 = Debug|Win32
+		{E5CE0E89-7696-4269-AC31-F20372F291E5}.Release|Win32.ActiveCfg = Release|Win32
+		{E5CE0E89-7696-4269-AC31-F20372F291E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
